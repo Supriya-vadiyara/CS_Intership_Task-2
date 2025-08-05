@@ -67,6 +67,4 @@ The process of analyzing the email header is a critical skill in threat detectio
 
 The **failed SPF, DKIM, and DMARC authentication results** provide the technical "smoking gun," while the deceptive domain names and server information confirm the social engineering intent. The email is **100% fraudulent**.
 
----
-<details>
-<summary><strong>Click to View the Full Header Used for This Analysis</strong></summary>
+
